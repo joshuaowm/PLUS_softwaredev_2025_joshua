@@ -1,1 +1,1 @@
-# geo-software-dev-joshy
+# Software Development Course Repository
