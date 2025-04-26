@@ -6,27 +6,27 @@ Manually downloaded the environments; [software_dev_v1.yml](software_dev_v1.yml)
 ## Environment Installation #1
 Succesfully installed the first environment using `conda env create -f software_dev_v1.yml` prompt.
 
-![ss1](ss\ss1.png)
+<img src="ss/ss1.png">
 
 And successfully activated the recreated environment using `conda activate software_dev_v1` prompt.
 
-![ss2](ss\ss2.png)
+<img src="ss/ss2.png">
 
 Checked the packages inside the first environment using `conda list` prompt while being inside the environment.
 
-![ss3](ss\ss3.png)
+<img src="ss/ss3.png">
 **Note:** _The screenshot only show a few, out of all the packages inside the environment_
 
 ## Environment Installation #2
 Succesfully installed the second environment using the similar prompt as before; `conda env create -f software_dev_v2.yml`.
 
-![ss4](ss\ss4.png)
+<img src="ss/ss4.png">
 
 Successfully activated the recreated environment using `conda activate software_dev_v2` prompt.
 
-![ss5](ss\ss5.png)
+<img src="ss/ss5.png">
 
 Also checked the packages inside the second environment using `conda list` prompt while being inside the environment.
 
-![ss6](ss\ss6.png)
+<img src="ss/ss6.png">
 **Note:** _The screenshot only show a few, out of all the packages inside the environment_
