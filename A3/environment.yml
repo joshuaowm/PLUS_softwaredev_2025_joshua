@@ -1,0 +1,12 @@
+name: rasterio_josh
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - rasterio
+  - matplotlib
+  - pytorch
+  - torchgeo
+  - jupyterlab
+  - numpy
