@@ -1,6 +1,7 @@
-rasterio
-matplotlib
 torch
+torchvision
 torchgeo
-jupyterlab
+rasterio
 numpy
+matplotlib
+jupyterlab
